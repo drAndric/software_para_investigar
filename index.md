@@ -26,6 +26,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [ZoteroBib](https://zbib.org/)
 + [Mendeley](https://www.mendeley.com/)
 + [Hypernomicon](http://hypernomicon.org/)
++ [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
 ### Bibtex:
 + [JabRef](http://www.jabref.org/)
