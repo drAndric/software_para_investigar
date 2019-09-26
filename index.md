@@ -15,8 +15,8 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
     
 
 ## Nubes
-+ [https://www.dropbox.com/](https://www.dropbox.com/)
-+ [https://drive.google.com/](https://drive.google.com/)
++ [Dropbox](https://www.dropbox.com/)
++ [Google Drive](https://drive.google.com/)
 + [Box](https://www.box.com/)
 
 ### Cuenta para Google Drive UNC
