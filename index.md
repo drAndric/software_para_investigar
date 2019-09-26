@@ -26,7 +26,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [https://www.github.com/](https://www.github.com/)
     
 ## Gestores bibliográficos
-+ [Zotero](https://www.zotero.org/) (nuestra elección)
++ [Zotero](https://www.zotero.org/) (nuestra elección💪)
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
 + [Mendeley](https://www.mendeley.com/)
