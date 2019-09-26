@@ -7,9 +7,12 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 + [https://es.libreoffice.org](https://es.libreoffice.org)
 + [https://drive.google.com/](https://drive.google.com/)
-+ [https://www.lyx.org/](https://www.lyx.org/)
-+ [https://www.overleaf.com/](https://www.overleaf.com/)
++ [LyX es una especie de híbrido ente "Word" y LaTeX](https://www.lyx.org/)
++ [Overleaf, el editor web](https://www.overleaf.com/)
 + [LaTeX propiamente dicho](https://www.latex-project.org/)
+    + [MiKTeX](https://miktex.org)
+    + [TeXLive](https://www.tug.org/texlive/)
+    
 
 ## Nubes
 + [https://www.dropbox.com/](https://www.dropbox.com/)
