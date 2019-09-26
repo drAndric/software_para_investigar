@@ -1,7 +1,7 @@
 Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 ## Aprendiendo a aprender
-+ [https://es.coursera.org/learn/aprendiendo-a-aprender](https://es.coursera.org/learn/aprendiendo-a-aprender)
++ ["Aprendiendo a aprender" en Coursera](https://es.coursera.org/learn/aprendiendo-a-aprender)
 
 ## Para escribir
 
