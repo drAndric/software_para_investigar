@@ -5,8 +5,8 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 ## Para escribir
 
-+ [https://es.libreoffice.org](https://es.libreoffice.org)
-+ [https://drive.google.com/](https://drive.google.com/)
++ [LibreOffice (Alternativa _open source_ a Office](https://es.libreoffice.org)
++ [La _suite_ Google Docs](https://drive.google.com/)
 + [LyX es una especie de híbrido ente "Word" y LaTeX](https://www.lyx.org/)
 + [Overleaf, el editor web](https://www.overleaf.com/)
 + [LaTeX propiamente dicho](https://www.latex-project.org/)
