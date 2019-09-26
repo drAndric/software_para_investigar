@@ -33,7 +33,9 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 ### Bibtex:
 + [JabRef](http://www.jabref.org/)
-
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
 + [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
 + [http://www.dondelopublico.com/](http://www.dondelopublico.com/) (No oficial).
+
+## ATLAS.ti
++ [Sitio oficial](https://atlasti.com)
