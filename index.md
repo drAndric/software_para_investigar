@@ -34,12 +34,13 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [Mendeley](https://www.mendeley.com/) (👎)
     + [Elsevier vs. el mundo (académico)](https://medium.com/@erreJulian/el-mundo-acade%CC%81mico-vs-elsevier-f22f68e1e738)
 + [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
-
-### Bibtex:
+### [BibTeX](https://es.wikipedia.org/wiki/BibTeX):
 + [JabRef](http://www.jabref.org/)
-+ [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
-+ [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
-+ [http://www.dondelopublico.com/](http://www.dondelopublico.com/) (No oficial).
 
 ## ATLAS.ti
 + [Sitio oficial](https://atlasti.com)
+
+## Recursos para publicar:
++ [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
++ [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
++ [http://www.dondelopublico.com/](http://www.dondelopublico.com/) (No oficial).
