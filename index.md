@@ -32,6 +32,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
 + [Mendeley](https://www.mendeley.com/) (👎)
+    + [Elsevier vs. el mundo (académico)](https://medium.com/@erreJulian/el-mundo-acade%CC%81mico-vs-elsevier-f22f68e1e738)
 + [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
 ### Bibtex:
