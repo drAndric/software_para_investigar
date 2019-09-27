@@ -27,9 +27,11 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
     
 ## Gestores bibliográficos
 + [Zotero](https://www.zotero.org/) (nuestra elección💪)
+    + [ZotFile](http://zotfile.com/)
+    + [Better BibTex para Zotero](https://retorque.re/zotero-better-bibtex/installation/)
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
-+ [Mendeley](https://www.mendeley.com/)
++ [Mendeley](https://www.mendeley.com/) (👎)
 + [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
 ### Bibtex:
