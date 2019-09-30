@@ -40,6 +40,9 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 ## ATLAS.ti
 + [Sitio oficial](https://atlasti.com)
 
+## Más software para QDA
++ [KH Koder](https://khcoder.net/en/)
+
 ## Recursos para publicar:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
 + [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
