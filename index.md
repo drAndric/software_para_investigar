@@ -42,6 +42,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 ## Más software para QDA
 + [KH Koder](https://khcoder.net/en/)
++ [RQDA](http://rqda.r-forge.r-project.org)
 
 ## Recursos para publicar:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
