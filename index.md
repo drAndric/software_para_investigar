@@ -29,6 +29,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [Zotero](https://www.zotero.org/) (nuestra elección💪)
     + [ZotFile](http://zotfile.com/)
     + [Better BibTex para Zotero](https://retorque.re/zotero-better-bibtex/installation/)
+    + [Índice de extensiones para Zotero](https://www.zotero.org/support/plugins)
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
 + [Mendeley](https://www.mendeley.com/) (👎)
