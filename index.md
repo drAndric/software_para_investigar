@@ -38,6 +38,11 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 ### [BibTeX](https://es.wikipedia.org/wiki/BibTeX):
 + [JabRef](http://www.jabref.org/)
 
+## Reconocimiento óptico de caracteres (OCR)
+Para hacer PDFs buscables:
++ [Cognitive OpenOCR](https://cognitive-openocr-cuneiform.en.softonic.com/)
++ [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki/Downloads)
+
 ## ATLAS.ti
 + [Sitio oficial](https://atlasti.com)
 
