@@ -37,6 +37,8 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 ### [BibTeX](https://es.wikipedia.org/wiki/BibTeX):
 + [JabRef](http://www.jabref.org/)
+### Tutorial para usar Zotero
++ Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://errejulian.github.io/tutorial-zotero/)
 
 ## Reconocimiento óptico de caracteres (OCR)
 Para hacer PDFs buscables:
