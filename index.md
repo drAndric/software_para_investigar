@@ -19,9 +19,6 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [Google Drive](https://drive.google.com/)
 + [Box](https://www.box.com/)
 
-### Cuenta para Google Drive UNC
-+ [https://abm.usuarios.unc.edu.ar/#/registro/](https://abm.usuarios.unc.edu.ar/#/registro/)
-
 ### Control de cambios
 + [https://www.github.com/](https://www.github.com/)
     
