@@ -55,3 +55,10 @@ Para hacer PDFs buscables:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
 + [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
 + [http://www.dondelopublico.com/](http://www.dondelopublico.com/) (No oficial).
+
+---
+
+## Fuentes no oficiales para fuentes:
++ [LibGen] (http://gen.lib.rus.ec/)
++ [SciHub] (https://sci-hub.tw/)
++ [Grupos de Facebook] (Buscar, hay varios).
