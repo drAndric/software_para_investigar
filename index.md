@@ -59,6 +59,6 @@ Para hacer PDFs buscables:
 ---
 
 ## Fuentes no oficiales para fuentes:
-+ [LibGen] (http://gen.lib.rus.ec/)
-+ [SciHub] (https://sci-hub.tw/)
-+ [Grupos de Facebook] (Buscar, hay varios).
++ [LibGen](http://gen.lib.rus.ec/)
++ [SciHub](https://sci-hub.tw/)
++ [Grupos de Facebook] (Buscar, hay varios y muy completos).
