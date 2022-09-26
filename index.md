@@ -51,13 +51,16 @@ Para hacer PDFs buscables:
 ## Más software para QDA
 (aka alternativas para/de ATLAS.ti)
 + [QualCoder](https://github.com/ccbogel/QualCoder/wiki)
-(más info en el [sitio oficial](https://qualcoder.wordpress.com) )
+(más info en el [sitio oficial](https://qualcoder.wordpress.com). [Acá](https://www.youtube.com/watch?v=9teZO-KVwqk) hay un video pseudotutorial en inglés. )
 + [Taguette](https://www.taguette.org) (este se puede usar tanto online como instalado)
 + [CATMA](https://catma.de) (solo online)
 + [KH Koder](https://khcoder.net/en/)
 + [RQDA](http://rqda.r-forge.r-project.org)
++ [Lista de software libre (y otros) para ACD realizada por la Biblioteca de la Universidad de Illinois](https://guides.library.illinois.edu/c.php?g=348074&p=2346107)
 + [Comparación en Wikipedia](https://es.wikipedia.org/wiki/Programa_para_el_análisis_cualitativo_asistido_por_computador)
 + [Comparación en Wikipedia (inglés)](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software)
+
+Como se puede ver, el estado de las alternativas libres para hacer QDA deja bastante que desear o una invitación a aprender un poquito de R. Presentaciones al respecto [acá](https://www.youtube.com/watch?v=DwCunW19wcQ) y [acá](https://www.youtube.com/watch?v=OIB_xLlM8Fw)
 
 ## Recursos para publicar:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
