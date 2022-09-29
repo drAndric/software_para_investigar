@@ -13,9 +13,9 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
     + [MiKTeX](https://miktex.org)
     + [TeXLive](https://www.tug.org/texlive/)
 
-    ### Para escribir en Markdown
+### Para escribir en Markdown
     [Mardown](https://www.markdownguide.org), como (La)TeX y HTML, es un lenguaje de marcado: a través de una simple y clara sintaxis con la que se identifica qué clase de cosa es cada cosa, nos permite enfocarnos en el contenido y no en el diseño o formato que tendrá _luego_ la "cosa escrita". Otra ventaja es que como toda buena clase de código, básicamente estamos trabajando con archivos de textos por lo que es fácil compartirlos y editarlos con casi cualquier cosa. 
-    #### Algo de software para trabajar con Markdown y similares
+#### Algo de software para trabajar con Markdown y similares
     + [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
     + [Obsidian](https://obsidian.md)
     + [StackEdit](https://stackedit.io/app#) (online)
