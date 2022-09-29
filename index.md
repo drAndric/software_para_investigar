@@ -3,12 +3,13 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 ## Aprendiendo a aprender
 + ["Aprendiendo a aprender" en Coursera](https://es.coursera.org/learn/aprendiendo-a-aprender)
 
-## Para escribir
+## Para escribir, que no todo es Word
 
 + [LibreOffice (Alternativa _open source_ a Microsoft Office](https://es.libreoffice.org)
 + [La _suite_ Google Docs](https://drive.google.com/)
+### The LaTeX Way ⚠️:
 + [LyX es una especie de híbrido ente "Word" y LaTeX](https://www.lyx.org/)
-+ [Overleaf, el editor web para/de LaTeX](https://www.overleaf.com/)
++ [Overleaf, el editor web para/de LaTeX](https://www.overleaf.com/https://www.overleaf.com?r=61734808&rm=d&rs=b)
 + [LaTeX propiamente dicho](https://www.latex-project.org/)
     + [MiKTeX](https://miktex.org)
     + [TeXLive](https://www.tug.org/texlive/)
@@ -81,6 +82,6 @@ Como se puede ver, el estado de las alternativas libres para hacer QDA deja bast
 
 ## Fuentes no oficiales para fuentes:
 + [LibGen](http://gen.lib.rus.ec/)
-    ++ [Mirror](http://libgen.li)
+    + [Mirror/Otro link](http://libgen.li)
 + [SciHub](https://sci-hub.ru/)
 + [Grupos de Facebook] (Buscar, hay varios y muy completos).
