@@ -14,12 +14,15 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
     + [TeXLive](https://www.tug.org/texlive/)
 
 ### Para escribir en Markdown
-    [Mardown](https://www.markdownguide.org), como (La)TeX y HTML, es un lenguaje de marcado: a través de una simple y clara sintaxis con la que se identifica qué clase de cosa es cada cosa, nos permite enfocarnos en el contenido y no en el diseño o formato que tendrá _luego_ la "cosa escrita". Otra ventaja es que como toda buena clase de código, básicamente estamos trabajando con archivos de textos por lo que es fácil compartirlos y editarlos con casi cualquier cosa. 
+
+[Markdown](https://www.markdownguide.org) , como (La)TeX y HTML, es un lenguaje de marcado: a través de una simple y clara sintaxis con la que se identifica qué clase de cosa es cada cosa, nos permite enfocarnos en el contenido y no en el diseño o formato que tendrá _luego_ la "cosa escrita". Otra ventaja es que como toda buena clase de código, básicamente estamos trabajando con archivos de textos por lo que es fácil compartirlos y editarlos con casi cualquier cosa. 
+
 #### Algo de software para trabajar con Markdown y similares
-    + [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
-    + [Obsidian](https://obsidian.md)
-    + [StackEdit](https://stackedit.io/app#) (online)
-    + [HackMD](https://hackmd.io) (online, colaborativo, buen soporte para hacer presentaciones/powerpoints en MD)
+
++ [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
++ [Obsidian](https://obsidian.md)
++ [StackEdit](https://stackedit.io/app#) (online)
++ [HackMD](https://hackmd.io) (online, colaborativo, buen soporte para hacer presentaciones/powerpoints en MD)
 
 ## Nubes ☁️ 💾💽
 + [Filen](https://filen.io/r/74db45c7e23e78448c5df313a9c0f0d3) (con encriptación y 10 gb gratis!)
@@ -69,7 +72,7 @@ Para hacer PDFs buscables:
 
 Como se puede ver, el estado de las alternativas libres para hacer QDA deja bastante que desear o una invitación a aprender un poquito de R. Presentaciones al respecto [acá](https://www.youtube.com/watch?v=DwCunW19wcQ) y [acá](https://www.youtube.com/watch?v=OIB_xLlM8Fw)
 
-## Recursos para publicar:
+## Recursos para (decidir a dónde) publicar:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
 + [MIAR - Matriz de Información para el Análisis de Revistas](http://miar.ub.edu/)
 + [http://www.dondelopublico.com/](http://www.dondelopublico.com/) (No oficial).
