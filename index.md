@@ -22,7 +22,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 + [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
 + [Obsidian](https://obsidian.md)
-    + Un fuerte de Obsidian es la enorme cantidad de plugins hechos por la comunidad, como [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin), [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-deskto) y [Outliner](https://obsidian.md/plugins?id=obsidian-outl
+    + Un fuerte de Obsidian es la enorme cantidad de plugins hechos por la comunidad, como [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin), [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-deskto) y [Outliner](https://obsidian.md/plugins?id=obsidian-outliner).
 + [StackEdit](https://stackedit.io/app#) (online)
 + [HackMD](https://hackmd.io) (online, colaborativo, buen soporte para hacer presentaciones/powerpoints en MD)
 
