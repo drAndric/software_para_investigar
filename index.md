@@ -54,11 +54,9 @@ Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wi
 ### Tutorial para usar Zotero
 + Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://errejulian.github.io/tutorial-zotero/)
 
-## Reconocimiento óptico de caracteres (OCR)
 ## La vida en PDF 🗎
 ### Apps
-+[Kami](https://www.kamiapp.com/)
-    + (integra muy bien con GDrive, permite hacer OCR y resaltar, incluso con la versión gratis)
++ [Kami](https://www.kamiapp.com/) (integra muy bien con GDrive, permite hacer OCR y resaltar, incluso con la versión gratis)
 
 ### OCR (Reconocimiento Óptico de Caracteres)
 Para hacer PDFs buscables:
