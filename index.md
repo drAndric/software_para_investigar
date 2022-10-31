@@ -85,15 +85,16 @@ Para hacer PDFs buscables:
 [Listado de opciones que usan GPT-3](https://gpt3demo.com/category/copywriting)
 
 ### ¿Arte con IA?
-[DALLE](https://openai.com/dall-e-2/)
-[Stable Diffusion](https://huggingface.co/spaces/CompVis/text2img-latent-diffusion)
++ [DALLE](https://openai.com/dall-e-2/)
++ [Stable Diffusion](https://huggingface.co/spaces/CompVis/text2img-latent-diffusion)
 
 ### Traductores
-[DeepL Translator](https://www.deepl.com/translator)
++ [DeepL Translator](https://www.deepl.com/translator)
 
+## Análisis cualitativo (de datos)
+QDA por sus siglas en inglés
 
-
-## ATLAS.ti
+### ATLAS.ti
 + [Sitio oficial](https://atlasti.com)
 
 ### Más software para QDA
