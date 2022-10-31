@@ -55,9 +55,45 @@ Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wi
 + Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://errejulian.github.io/tutorial-zotero/)
 
 ## Reconocimiento óptico de caracteres (OCR)
+## La vida en PDF 🗎
+### Apps
++[Kami](https://www.kamiapp.com/)
+    + (integra muy bien con GDrive, permite hacer OCR y resaltar, incluso con la versión gratis)
+
+### OCR (Reconocimiento Óptico de Caracteres)
 Para hacer PDFs buscables:
 + [Cognitive OpenOCR](https://cognitive-openocr-cuneiform.en.softonic.com/)
-+ [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki/Downloads)
++ [NormCap](https://github.com/dynobo/normcap)
+    + (Para hacer rápido OCR a capturas de pantalla)
++ [VietOCR](https://sourceforge.net/projects/vietocr/)
++ [Rescribe](https://rescribe.xyz/rescribe/)
+    + (este es el que también hace OCR sobe GBooks directamente)
++ [gImageReader](https://github.com/manisandro/gImageReader)
+    + Es un poquito más complicado de usar y requiere instalar Tesseract por separado pero es muy poderoso. Disponible para Linux, macOS y Windows.
++ [Bajar Tesseract para Windows](https://github.com/UB-Mannheim/tesseract/wiki)
++ [Lista de formas/programas para interactuar con el motor de OCR de Tesseract](https://tesseract-ocr.github.io/tessdoc/User-Projects-%E2%80%93-3rdParty.html)
+#### Para usar en linea:
++ [PDFCandy](https://pdfcandy.com/pdf-ocr.html)
++ [I❤️PDF ](https://www.ilovepdf.com/pdf_to_word)
++ [Online PDF Tools de Adobe](https://www.adobe.com/acrobat/online/pdf-to-word.html)
+#### Opciones "de pago"
++ [ABBYY FineReader PDF](https://pdf.abbyy.com)
++ [Adobe Pdf Acrobat Pro](https://www.adobe.com/acrobat/acrobat-pro.html)
+
+--> [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
+
+## ¿Escribir con IA?
+
+[Listado de opciones que usan GPT-3](https://gpt3demo.com/category/copywriting)
+
+### ¿Arte con IA?
+[DALLE](https://openai.com/dall-e-2/)
+[Stable Diffusion](https://huggingface.co/spaces/CompVis/text2img-latent-diffusion)
+
+### Traductores
+[DeepL Translator](https://www.deepl.com/translator)
+
+
 
 ## ATLAS.ti
 + [Sitio oficial](https://atlasti.com)
