@@ -22,6 +22,7 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 
 + [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
 + [Obsidian](https://obsidian.md)
+++ Un fuerte de Obsidian es la enorme cantidad de plugins hechos por la comunidad, como [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin), [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-deskto) y [Outliner](https://obsidian.md/plugins?id=obsidian-outl
 + [StackEdit](https://stackedit.io/app#) (online)
 + [HackMD](https://hackmd.io) (online, colaborativo, buen soporte para hacer presentaciones/powerpoints en MD)
 
@@ -33,9 +34,11 @@ Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
 + [Google Drive](https://drive.google.com/)
 + [Box](https://www.box.com/)
 
-### Control de cambios
+### Control de cambios (aka control de versiones)
+Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wikipedia.org/wiki/Control_de_versiones), pero se puede usar para más cosas de lo que uno sospecharía ([como para escribir textos 😉](https://www.gitkraken.com/gitkon/git-for-writers))
+
 + [https://www.github.com/](https://www.github.com/)
-    
+  
 ## Gestores bibliográficos
 + [Zotero](https://www.zotero.org/) (nuestra elección💪)
     + [ZotFile](http://zotfile.com/)
