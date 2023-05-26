@@ -94,7 +94,11 @@ Para hacer PDFs buscables:
 ## Análisis cualitativo (de datos)
 QDA por sus siglas en inglés
 
+### Saturar
++ [Saturar - Software libre para QDA!](http://satur.ar/)
+Made with ♥ in Argentina by [@ValentinBasel](https://gitlab.com/valentinbasel)
 ### ATLAS.ti
+El software que se suele asociar con hacer QDA... (software ideado para hacer "teoría fundamentada", metodología usual para estudios cualitativos, típicos de muchas ciencias humanas y sociales)
 + [Sitio oficial](https://atlasti.com)
 
 ### Más software para QDA
