@@ -1,7 +1,14 @@
-Acá les dejamos algunos links y recursos del taller "Ladran, pero no muerden".
+
+Esta es una lista de distintas clases de recursos y links para hacer distintas tareas propias de la investigación (principalmente en humanidades) aunque hay un poco de todo. Originalmente una lista del taller ["Ladran, pero no muerden"](https://errejulian.github.io/ladran/) y que se ha ido adaptando con el tiempo.
+ 
 
 ## Aprendiendo a aprender
 + ["Aprendiendo a aprender" en Coursera](https://es.coursera.org/learn/aprendiendo-a-aprender)
+
+## Para buscar o descubrir apps o sotware para determinadas tareas
+
++ [Alternativeto; muy útil para encontrar una alternativa a X programa](https://alternativeto.net)
++ [Futuretools; para buscar herramientas basadas en IA para distintas actividades](https://www.futuretools.io)
 
 ## Para escribir, que no todo es Word
 
