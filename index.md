@@ -87,8 +87,14 @@ Para hacer PDFs buscables:
 
 --> [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
 
-## ¿Escribir con IA?
+## La vida con Inteligencia (Artificial)...
 
+### Agregadores de herramientas basadas en IA
++ [Hay una IA para eso](https://theresanaiforthat.com)
++ [Herramientas del futuro](https://www.futuretools.io)
+
+### ¿Escribir con IA?
++ [ChatGPT](https://chat.openai.com)
 [Listado de opciones que usan GPT-3](https://gpt3demo.com/category/copywriting)
 
 ### ¿Arte con IA?
