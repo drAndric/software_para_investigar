@@ -48,18 +48,28 @@ Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wi
   
 ## Gestores bibliográficos
 + [Zotero](https://www.zotero.org/) (nuestra elección💪)
-    + [ZotFile](http://zotfile.com/)
-    + [Better BibTex para Zotero](https://retorque.re/zotero-better-bibtex/installation/)
-    + [Índice de extensiones para Zotero](https://www.zotero.org/support/plugins)
+
+### Algunos complementos (extensiones/plugins) para Zotero
+  + [ZotFile (solo hasta Zotero 6)](http://zotfile.com/)
+      + [Zotmoov (sustituye a ZotFile para Zotero 7)](https://github.com/wileyyugioh/zotmoov)
+      + [Zotero Attanger (otra opción)](https://github.com/MuiseDestiny/zotero-attanger)
+  + [Better BibTex para Zotero](https://retorque.re/zotero-better-bibtex/installation/)
+  + [Markdown Connect](https://github.com/daeh/zotero-markdb-connect)
+  + [Índice de extensiones para Zotero](https://www.zotero.org/support/plugins)
+  
+### Tutorial para usar Zotero
++ Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://julian-erre.github.io/tutorial-zotero/) Este tutorial fue hecho para la versión 6, cuando todavía el complemento ZotFile era compatible. La idea general del tutorial sigue válida, cambiando principalmente ZotFile por otro complemento. Quizás pronto podamos actualizar el tutorial como corresponde...
+
+## otros gestores
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
 + [Mendeley](https://www.mendeley.com/) (👎🍅)
     + [Elsevier vs. el mundo (académico)](https://medium.com/@erreJulian/el-mundo-acade%CC%81mico-vs-elsevier-f22f68e1e738)
 + [Comparación en Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+
 ### [BibTeX](https://es.wikipedia.org/wiki/BibTeX):
 + [JabRef](http://www.jabref.org/)
-### Tutorial para usar Zotero
-+ Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://errejulian.github.io/tutorial-zotero/)
+
 
 ## La vida en PDF 🗎
 ### Apps
@@ -103,6 +113,10 @@ Para hacer PDFs buscables:
 
 ### Traductores
 + [DeepL Translator](https://www.deepl.com/translator)
+
+### Para pensar la IA
+
+* [guIA / Guía (para sobrevivir en el mundo con) Inteligencia Artificial](https://guia.ilcic.net)
 
 ## Análisis cualitativo (de datos)
 QDA por sus siglas en inglés
