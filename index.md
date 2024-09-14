@@ -99,6 +99,8 @@ Para hacer PDFs buscables:
 
 ## La vida con Inteligencia (Artificial)...
 
+(esta sección es bastante básica, casi que se podría decir que ha sido reemplazada por la [guIA](,ttps://guia.ilcic.net))
+
 ### Agregadores de herramientas basadas en IA
 + [Hay una IA para eso](https://theresanaiforthat.com)
 + [Herramientas del futuro](https://www.futuretools.io)
@@ -141,6 +143,10 @@ El software que se suele asociar con hacer QDA... (software ideado para hacer "t
 + [Comparación en Wikipedia (inglés)](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software)
 
 Como se puede ver, el estado de las alternativas libres para hacer QDA deja bastante que desear o una invitación a aprender un poquito de R. Presentaciones al respecto [acá](https://www.youtube.com/watch?v=DwCunW19wcQ) y [acá](https://www.youtube.com/watch?v=OIB_xLlM8Fw)
+
+#### Colaborar online para QDA
+
+Un projecto reciente para hacer esta actividad en grupos y usando software de código abierto es [openQDA](https://github.com/openqda/openqda). Se trata de un proyecto en las etapas iniciales y en desarrollo constante pero ya se puede probar.
 
 ## Recursos para (decidir a dónde) publicar:
 + [http://idh.unc.edu.ar/recursos-para-la-investigacion/](http://idh.unc.edu.ar/recursos-para-la-investigacion/)
