@@ -138,6 +138,7 @@ El software que se suele asociar con hacer QDA... (software ideado para hacer "t
 + [CATMA](https://catma.de) (solo online)
 + [KH Koder](https://khcoder.net/en/)
 + [RQDA](http://rqda.r-forge.r-project.org)
+  + este proyecto creo que fue abandonado hace un tiempo, ahora se pueden recomendar [Requal](https://github.com/RE-QDA/requal/) y [qdap](https://cran.r-project.org/web/packages/qdap/)
 + [Lista de software libre (y otros) para ACD realizada por la Biblioteca de la Universidad de Illinois](https://guides.library.illinois.edu/c.php?g=348074&p=2346107)
 + [Comparación en Wikipedia](https://es.wikipedia.org/wiki/Programa_para_el_análisis_cualitativo_asistido_por_computador)
 + [Comparación en Wikipedia (inglés)](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software)
