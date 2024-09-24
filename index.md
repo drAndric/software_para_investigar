@@ -142,6 +142,7 @@ El software que se suele asociar con hacer QDA... (software ideado para hacer "t
 + [Lista de software libre (y otros) para ACD realizada por la Biblioteca de la Universidad de Illinois](https://guides.library.illinois.edu/c.php?g=348074&p=2346107)
 + [Comparación en Wikipedia](https://es.wikipedia.org/wiki/Programa_para_el_análisis_cualitativo_asistido_por_computador)
 + [Comparación en Wikipedia (inglés)](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software)
++ [Choosing - QUALitative Research & Tools - InfoGuides at George Mason University](https://infoguides.gmu.edu/qual/software/choose) 
 
 Como se puede ver, el estado de las alternativas libres para hacer QDA deja bastante que desear o una invitación a aprender un poquito de R. Presentaciones al respecto [acá](https://www.youtube.com/watch?v=DwCunW19wcQ) y [acá](https://www.youtube.com/watch?v=OIB_xLlM8Fw)
 
