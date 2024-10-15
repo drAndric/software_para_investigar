@@ -29,7 +29,12 @@ Esta es una lista de distintas clases de recursos y links para hacer distintas t
 
 + [Zettlr](https://www.zettlr.com) (Una ventaja que tiene es que está diseñado para su uso académico, así que incluye pandoc para exportar a muchos formatos, manejo de la bibliografía Zotero mediante, y hasta Zettelkasten.)  
 + [Obsidian](https://obsidian.md)
-    + Un fuerte de Obsidian es la enorme cantidad de plugins hechos por la comunidad, como [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin), [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-deskto) y [Outliner](https://obsidian.md/plugins?id=obsidian-outliner).
+    + Un fuerte de Obsidian es la enorme cantidad de plugins hechos por la comunidad, como:
+      +  [Citations](https://obsidian.md/plugins?id=obsidian-citation-plugin)
+      +  [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-deskto)
+      +  [Outliner](https://obsidian.md/plugins?id=obsidian-outliner)
+      +  [Quadro](https://github.com/chrisgrieser/obsidian-quadro) (para hacer análisis cualitativo de datos)
+      +  [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) (para chattear con nuestra bóveda, gracias a chatGPT y similares)
 + [StackEdit](https://stackedit.io/app#) (online)
 + [HackMD](https://hackmd.io) (online, colaborativo, buen soporte para hacer presentaciones/powerpoints en MD)
 
@@ -99,15 +104,21 @@ Para hacer PDFs buscables:
 
 ## La vida con Inteligencia (Artificial)...
 
-(esta sección es bastante básica, casi que se podría decir que ha sido reemplazada por la [guIA](,ttps://guia.ilcic.net))
+(esta sección es bastante básica, casi que se podría decir que ha sido reemplazada por la [guIA](https://guia.ilcic.net)).
 
-### Agregadores de herramientas basadas en IA
+### Para pensar la IA
+
+* [guIA / Guía (para sobrevivir en el mundo con) Inteligencia Artificial](https://guia.ilcic.net)
+* [Sección inicial de la guía dedicada al software de vida académica](https://guia.ilcic.net/docs/chapter3/apps/#investigaci%C3%B3n-y-educaci%C3%B3n)
+* * continuará por [acá](https://guia.ilcic.net/docs/chapter3/vidacademica/)
+
+todo lo que sigue en esta sección de IA es viejo, queda como referencia por ahora
+
+<hr>
+
+ ### Agregadores de herramientas basadas en IA
 + [Hay una IA para eso](https://theresanaiforthat.com)
 + [Herramientas del futuro](https://www.futuretools.io)
-
-### ¿Escribir con IA?
-+ [ChatGPT](https://chat.openai.com)
-[Listado de opciones que usan GPT-3](https://gpt3demo.com/category/copywriting)
 
 ### ¿Arte con IA?
 + [DALLE](https://openai.com/dall-e-2/)
@@ -116,12 +127,11 @@ Para hacer PDFs buscables:
 ### Traductores
 + [DeepL Translator](https://www.deepl.com/translator)
 
-### Para pensar la IA
-
-* [guIA / Guía (para sobrevivir en el mundo con) Inteligencia Artificial](https://guia.ilcic.net)
+<hr>
 
 ## Análisis cualitativo (de datos)
 QDA por sus siglas en inglés
+
 
 ### Saturar
 + [Saturar - Software libre para QDA!](http://satur.ar/)
@@ -134,6 +144,7 @@ El software que se suele asociar con hacer QDA... (software ideado para hacer "t
 (aka alternativas para/de ATLAS.ti)
 + [QualCoder](https://github.com/ccbogel/QualCoder/wiki)
 (más info en el [sitio oficial](https://qualcoder.wordpress.com). [Acá](https://www.youtube.com/watch?v=9teZO-KVwqk) hay un video pseudotutorial en inglés. )
++ [Quadro - Plugin para hacer QDA en Obsidian!](https://github.com/chrisgrieser/obsidian-quadro)
 + [Taguette](https://www.taguette.org) (este se puede usar tanto online como instalado)
 + [CATMA](https://catma.de) (solo online)
 + [KH Koder](https://khcoder.net/en/)
