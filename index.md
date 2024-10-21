@@ -47,11 +47,14 @@ Esta es una lista de distintas clases de recursos y links para hacer distintas t
 + [Box](https://www.box.com/)
 
 ### Control de cambios (aka control de versiones)
+
 Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wikipedia.org/wiki/Control_de_versiones), pero se puede usar para más cosas de lo que uno sospecharía ([como para escribir textos 😉](https://www.gitkraken.com/gitkon/git-for-writers))
 
 + [https://www.github.com/](https://www.github.com/)
++ [GitLab](https://www.gitlab.com)
   
 ## Gestores bibliográficos
+
 + [Zotero](https://www.zotero.org/) (nuestra elección💪)
 
 ### Algunos complementos (extensiones/plugins) para Zotero
@@ -61,11 +64,14 @@ Este es un mundo bastante intrincado [ver la entrada en Wikipedia](https://es.wi
   + [Better BibTex para Zotero](https://retorque.re/zotero-better-bibtex/installation/)
   + [Markdown Connect](https://github.com/daeh/zotero-markdb-connect)
   + [Índice de extensiones para Zotero](https://www.zotero.org/support/plugins)
+  + [Awesome Zotero | lista curada de extensiones/plugins](https://github.com/MohamedElashri/awesome-zotero)
   
 ### Tutorial para usar Zotero
-+ Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://julian-erre.github.io/tutorial-zotero/) Este tutorial fue hecho para la versión 6, cuando todavía el complemento ZotFile era compatible. La idea general del tutorial sigue válida, cambiando principalmente ZotFile por otro complemento. Quizás pronto podamos actualizar el tutorial como corresponde...
+
++ Tal como habíamos prometido, [armamos un tutorial sobre cómo usar Zotero, ZotFile y Better BiBTex](https://julian-erre.github.io/tutorial-zotero/) Este tutorial fue hecho para la versión 6, cuando todavía el complemento ZotFile era compatible. La idea general del tutorial sigue válida, cambiando principalmente ZotFile por otro complemento (como [Zotmoov ](https://github.com/wileyyugioh/zotmoov)). Quizás pronto podamos actualizar el tutorial como corresponde...
 
 ## otros gestores
+
 + [ZoteroBib](https://zbib.org/)
 + [Hypernomicon](http://hypernomicon.org/)
 + [Mendeley](https://www.mendeley.com/) (👎🍅)
